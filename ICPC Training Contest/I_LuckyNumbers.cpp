@@ -28,5 +28,5 @@ int main() {
 // 	and 0<=N<100 ===>  
 // CHECK IF :
 //		u!=0 and (EITHER t|u OR u|t) // if t|u&&u|t ===> u=t  : YES
-//      u=0 												  : YES
-//      Anything else										  : NO
+//      u=0 											                                	  : YES
+//      Anything else								                         		  : NO
