@@ -21,7 +21,6 @@ int main() {
         string name, house;
 
         if (!getline(cin, name) || !getline(cin, house)) {
-            cerr << "Error: Unable to read name or house." << endl;
             return 1;
         }
 
